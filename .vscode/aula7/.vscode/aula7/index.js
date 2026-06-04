@@ -6,5 +6,6 @@
 // Case-sensitive
 // Não podemos redeclarar constantes com let
 // NÃO UTILIZE VAR, UTILIZE CONST PARA VALORES QUE NÃO VÃO MUDAR
-const nome = ("João");
+const nome ="João";
 console.log(nome);
+
